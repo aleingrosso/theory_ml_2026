@@ -3,7 +3,7 @@
   * Master course at Radboud University - 3 EC
   * Teaching Assistants: [Mauricio Diaz-Ortiz](https://www.ru.nl/en/people/diaz-ortiz-jr-m), [Daniele Bersano](https://www.ru.nl/en/people/bersano-d)
 
-This [course](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=NWI-NM141&collegejaar=2026) The course provides advanced topics in machine learning, with a particular focus on how the statistical physics of disordered systems helps in understanding learning and generalization abilities of neural networks. This course is the follow-up of [CDS: Machine Learning](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=NWI-NM048D&collegejaar=2026).
+This [course](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=NWI-NM141&collegejaar=2026) provides advanced topics in machine learning, with a particular focus on how the statistical physics of disordered systems helps in understanding learning and generalization abilities of neural networks. This course is the follow-up of [CDS: Machine Learning](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=NWI-NM048D&collegejaar=2026).
 
 ## Main topics
 * Monte Carlo methods and variational approximation for inference and learning
